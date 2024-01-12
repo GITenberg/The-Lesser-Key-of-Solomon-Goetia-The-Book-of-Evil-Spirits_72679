@@ -1,0 +1,34 @@
+_repo: The-Lesser-Key-of-Solomon-Goetia-The-Book-of-Evil-Spirits_72679
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Laurence, L. W. (Lauron William)
+    aliases:
+    - Laurence, L. W. de‏ (Lauron William)
+    - Laurence, Lauron William de
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '42287'
+    url: http://www.gutenberg.org/2009/agents/42287
+    wikipedia: https://en.wikipedia.org/wiki/L._W._de_Laurence
+description: ''
+gutenberg_issued: '2024-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72679'
+language: en
+pgterms:marc904: https://archive.org/details/lesserkeyofsolom00dela
+pgterms:marc905: 20210907083002delaurence
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: deaurider, David King, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net. (This file was produced from images generously made available
+  by The Internet Archive.)
+publication_note: '  $aChicago :$bde Laurence, Scott & Co, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Lesser Key of Solomon Goetia The Book of Evil Spirits
+url: http://www.gutenberg.org/ebooks/72679
