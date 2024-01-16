@@ -1,5 +1,8 @@
 _repo: The-Lesser-Key-of-Solomon-Goetia-The-Book-of-Evil-Spirits_72679
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72679-h/images/cover.jpg
 creator:
   author:
     agent_name: De Laurence, L. W. (Lauron William)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42287
     wikipedia: https://en.wikipedia.org/wiki/L._W._de_Laurence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72679#The-Lesser-Key-of-Solomon-Goetia-The-Book-of-Evil-Spirits
 gutenberg_issued: '2024-01-11'
 gutenberg_type: Text
 identifiers:
